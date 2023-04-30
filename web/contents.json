@@ -1,0 +1,58 @@
+{
+    "0": {
+        "image":"/img/csgo.webp",
+        "imageAlt": "Cs go",
+        "title": "CS Go",
+        "text": "Counter-Strike: Global Offensive é um jogo online desenvolvido pela Valve Corporation e pela Hidden Path Entertainment, sendo uma sequência de Counter-Strike: Source. É o quarto título principal da franquia.",
+        "link": "https://store.steampowered.com/app/730/CounterStrike_Global_Offensive/"
+    },
+    "1": {
+        "image":"/img/forza_horizon_4.png",
+        "imageAlt": "forza horizon 4",
+        "title": "Forza Horizon 4",
+        "text": "Forza Horizon 4 é um jogo de corrida em mundo aberto desenvolvido pela Playground Games em colaboração com a Turn 10 e publicado pela Xbox Game Studios, que na época do lançamento ainda era conhecida como Microsoft Studios. É o quarto da franquia Forza Horizon e o décimo primeiro da edição Forza.",
+        "link": "https://store.steampowered.com/app/1293830/Forza_Horizon_4/"
+    },
+    "2": {
+        "image":"/img/gta_v.jpg",
+        "imageAlt": "GTA V",
+        "title": "GTA V",
+        "text": "Grand Theft Auto V é um jogo eletrônico de ação-aventura desenvolvido pela Rockstar North e publicado pela Rockstar Games.",
+        "link": "https://www.rockstargames.com/br/gta-v"
+    },
+    "3": {
+        "image":"/img/lol.jpg",
+        "imageAlt": "lol",
+        "title": "League of Legends",
+        "text": "League of Legends é um jogo eletrônico do gênero multiplayer online battle arena desenvolvido e publicado pela Riot Games. Foi lançado em outubro de 2009 para Microsoft Windows e em março de 2013 para macOS.",
+        "link": "https://www.leagueoflegends.com/pt-br/"
+    },
+    "4": {
+        "image":"/img/minecraft.jpg",
+        "imageAlt": "minecraft",
+        "title": "Minecraft",
+        "text": "Minecraft é um jogo eletrônico sandbox de sobrevivência criado pelo desenvolvedor sueco Markus 'Notch' Persson e posteriormente desenvolvido e publicado pela Mojang Studios, cuja propriedade intelectual foi obtida pela Microsoft em 2014.",
+        "link": "https://www.minecraft.net/pt-br"
+    },
+    "5": {
+        "image":"/img/the_crew.jpeg",
+        "imageAlt": "the crew",
+        "title": "The Crew",
+        "text": "The Crew é um jogo de condução de ação revolucionário exclusivo para consoles de nova geração. Você e seus amigos podem dirigir alucinadamente pela recriação dos Estados Unidos em um vasto mundo aberto.",
+        "link": "https://store.steampowered.com/app/241560/The_Crew/"
+    },
+    "6": {
+        "image":"/img/valorant.webp",
+        "imageAlt": "valorant",
+        "title": "Valorant",
+        "text": "Valorant é um jogo eletrônico multijogador gratuito para jogar de tiro em primeira pessoa desenvolvido e publicado pela Riot Games.",
+        "link": "https://playvalorant.com/pt-br/"
+    },
+    "7": {
+        "image":"/img/zelda.jpeg",
+        "imageAlt": "zelda",
+        "title": "The Legend of Zelda",
+        "text": "The Legend of Zelda: The Minish Cap é um jogo eletrônico desenvolvido pela Capcom e Flagship, com supervisão da Nintendo da série The Legend of Zelda e foi lançado para o Game Boy Advance em 2004 no Japão e na Europa e em 10 de janeiro de 2005 no Estados Unidos e Austrália.",
+        "link": "https://www.zelda.com/"
+    }
+}
